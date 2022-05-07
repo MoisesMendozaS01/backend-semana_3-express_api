@@ -1,0 +1,19 @@
+{
+  "name": "backend-semana_3-express_api",
+  "version": "1.0.0",
+  "description": "Mi primer API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoisesMendozaS01/backend-semana_3-express_api.git"
+  },
+  "author": "Moises Mendoza S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoisesMendozaS01/backend-semana_3-express_api/issues"
+  },
+  "homepage": "https://github.com/MoisesMendozaS01/backend-semana_3-express_api#readme"
+}
