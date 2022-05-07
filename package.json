@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MoisesMendozaS01/backend-semana_3-express_api/issues"
   },
-  "homepage": "https://github.com/MoisesMendozaS01/backend-semana_3-express_api#readme"
+  "homepage": "https://github.com/MoisesMendozaS01/backend-semana_3-express_api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
